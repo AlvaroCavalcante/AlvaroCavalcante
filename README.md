@@ -5,6 +5,7 @@ I'm working as a Product Owner in a technology startup and master's degree stude
 ### More about me
 
 My personal [website](https://alvarocavalcante.github.io/).
+
 Follow-me on [Medium](https://medium.com/@alvaroleandrocavalcante) where I share my knowledge.
 
 ### Contribute with my open-source projects
