@@ -1,6 +1,6 @@
 ### Hi there, I'm [Alvaro](https://alvarocavalcante.github.io/) 👋
 
-I'm working as a Product Owner in a technology startup and master's degree student in artificial intelligence. I love new challenges involving programming, AI, data, and business. I enjoy working with python (TensorFlow, Keras, Sklearn, pandas, numpy) and typescript in Angular projects. My interest is to create new open source projects to help the community with AI and data science.
+I work as a Machine Learning Engineer in a financial company and I'm a master's degree student in artificial intelligence. I love new challenges involving programming, AI, data, and business. I enjoy working with python (TensorFlow, Keras, Sklearn, pandas, numpy) and typescript in Angular projects. My interest is to create new open source projects to help the community with AI and data science.
 
 ### More about me
 
