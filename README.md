@@ -13,5 +13,5 @@ Follow-me on [Medium](https://medium.com/@alvaroleandrocavalcante) where I share
 I'd love to have your help in my projects :blue_heart:
 
 - Coffee Disease Recognition APP: https://github.com/AlvaroCavalcante/Coffee_Recognize
-- Coffee Disease Recognition API: https://github.com/AlvaroCavalcante/Coffee_Recognize_API
+- Auto annotation tool for object detection: https://github.com/AlvaroCavalcante/auto_annotate
 - TensorFlow Semi-Supervised Architecture: https://github.com/AlvaroCavalcante/tf-models
