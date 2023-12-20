@@ -16,6 +16,6 @@ Follow me on [Medium](https://medium.com/@alvaroleandrocavalcante) where I share
 
 I'd love to have your help with my projects, here are some of them:
 
-- [Auto annotation tool for object detection](https://github.com/AlvaroCavalcante/auto_annotate).
+- [Auto annotation tool for object detection](https://github.com/AlvaroCavalcante/auto_annotate)
 - [Large-scale hand and face detection models and dataset](https://github.com/AlvaroCavalcante/hand-face-detector)
 - [Coffee Disease Recognition APP](https://github.com/Lucs1590/Coffee_Recognize)
